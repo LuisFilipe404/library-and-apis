@@ -16,3 +16,9 @@ D3.js is a JavaScript library for manipulating documents based on data. D3 helps
 A react tooltip is a floating react element that displays information related to an anchor element when it receives keyboard focus or the mouse hovers over it.
 * https://www.npmjs.com/package/react-tooltip - React
 * ![react-tootips](https://github.com/LuisFilipe404/pictures/blob/main/tooltipsExample.png)
+
+## **Tippy**:
+Tippy.js is the complete tooltip, popover, dropdown, and menu solution for the web, powered by Popper.
+It provides the logic and optional styling of elements that "pop out" from the flow of the document and float next to a target element.
+* https://atomiks.github.io/tippyjs/ - JS
+* https://www.npmjs.com/package/@tippyjs/react - React
