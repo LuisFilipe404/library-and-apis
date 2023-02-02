@@ -17,6 +17,10 @@ A react tooltip is a floating react element that displays information related to
 * https://www.npmjs.com/package/react-tooltip - React
 * ![react-tootips](https://github.com/LuisFilipe404/pictures/blob/main/tooltipsExample.png)
 
+## **Styled-Components**:
+Use the best bits of ES6 and CSS to style your apps without stress 💅🏾
+* https://styled-components.com/ - React
+
 ## **Tippy**:
 Tippy.js is the complete tooltip, popover, dropdown, and menu solution for the web, powered by Popper.
 It provides the logic and optional styling of elements that "pop out" from the flow of the document and float next to a target element.
