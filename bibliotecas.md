@@ -12,6 +12,10 @@ D3.js is a JavaScript library for manipulating documents based on data. D3 helps
 * https://d3js.org/ - JS
 * https://react-d3-library.github.io/ - React
 
+## **HighLight.js**:
+Syntax highlighting for the Web
+* https://highlightjs.org/ - JS
+
 ## **React-ToolTips**:
 A react tooltip is a floating react element that displays information related to an anchor element when it receives keyboard focus or the mouse hovers over it.
 * https://www.npmjs.com/package/react-tooltip - React
